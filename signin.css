@@ -15,15 +15,15 @@ background-color: background-color black
            
  }
 
-button > a{
+button  {
         color: white;
+        padding: 4px 240px;
+        margin: auto;
+        background-color: black;
      }
         img{
             width:5%;
             padding: 2px 3px;
         }
-    a
-    {
-        text-decoration: none;
-        color: black;
-    }
+    
+   

@@ -15,12 +15,14 @@ background-color: background-color black
            
  }
 
-button > a{
+button{
         color: white;
+        padding: 4px 240px;
+        background-color: black;
+        margin: auto;
      }
 img{
             width:5%;
-            padding: 2px 3px;
+            padding: 12px 6px;
         }
    
-
